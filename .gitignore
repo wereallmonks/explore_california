@@ -1,6 +1,6 @@
 # comment
 tempfile.txt
-tempfile.2.txt
+tempfile2.txt
 .gitignore_global
 .DS_Store
 *.zip
