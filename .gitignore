@@ -1,5 +1,7 @@
 # comment
 tempfile.txt
+tempfile.2.txt
+.gitignore_global
 .DS_Store
 *.zip
 *.gz
